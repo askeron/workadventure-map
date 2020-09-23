@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/app\/board\/o9J_kmDN8EU=\/"
+                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_kmDN8EU=\/"
                 }],
          "type":"tilelayer",
          "visible":true,
